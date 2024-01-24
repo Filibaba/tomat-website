@@ -523,6 +523,11 @@
   
   /* Mobile */
   @media screen and (max-width: 580px) {
+     .tomat-logo {
+      width: 300px;
+      height: 77.4px;
+    }       
+
     .hero img {
       height: 150vh;
       width: 100vw;
