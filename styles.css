@@ -63,10 +63,6 @@
   .hero-iphone {
     height: 638px;
  	  width: 313px;
-    background: url(gfx/hero-iphone@2x.png);
-    background-size: 313px 638px;
-  	background-repeat: no-repeat;
-  	background-position: center center;
   	margin: 72px 0px 80px 0px;
     transition: 0.35s;
   }
